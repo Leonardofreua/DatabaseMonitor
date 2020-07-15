@@ -1,0 +1,7 @@
+colorama==0.4.1
+pyroute2==0.5.6
+psycopg2==2.8.2
+PySimpleGUIQt==0.26.0
+PyYAML==5.1
+requests==2.21.0
+PyQt5
